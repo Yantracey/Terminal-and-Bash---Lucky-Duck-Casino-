@@ -5,7 +5,7 @@ As the security analyst at Lucky Duck Casino, I successfully completed the assig
 
 **Step 1: Investigation Preparation**
 
-In my web lab virtual machine, I navigated to the HOME directory and set up the necessary directories for the investigation using the specified commands. I created the Lucky_Duck_Investigations directory, which included subdirectories for Player Analysis, Dealer Analysis, and Player-Dealer Correlation. Additionally, I generated empty notes files under each subdirectory.
+In my web lab virtual machine, I navigated to the HOME directory and set up the necessary directories for the investigation. I created the Lucky_Duck_Investigations directory, which included subdirectories for Player Analysis, Dealer Analysis, and Player-Dealer Correlation. Additionally, I generated empty notes files under each subdirectory.
 
 **Step 2: Gathering Evidence**
 
